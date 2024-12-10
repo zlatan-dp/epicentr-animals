@@ -665,7 +665,7 @@
                     }
 
                     .details-item-name {
-                        width: 150px;
+                        width: 130px;
 
                         @media (min-width: 760px) {
                             width: 200px;
